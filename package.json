@@ -23,7 +23,7 @@
     "schwifty": "^5.3.0",
     "secure-password": "^4.0.0",
     "slugify": "^1.4.5",
-    "sqlite3": "^5.0.0"
+    "sqlite3": "^5.0.3"
   },
   "devDependencies": {
     "@hapi/code": "8.x.x",
