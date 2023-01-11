@@ -15,7 +15,7 @@
     "hapi-auth-jwt2": "^10.1.0",
     "haute-couture": "^3.5.1",
     "jsonwebtoken": "^8.5.1",
-    "knex": "^0.21.5",
+    "knex": "^2.4.0",
     "objection": "^2.2.3",
     "objection-db-errors": "^1.1.2",
     "randomstring": "^1.1.5",
